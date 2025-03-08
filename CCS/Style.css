@@ -21,3 +21,34 @@ nav a:hover{
     text-decoration: underline;
 }
 
+main {
+    background-color: #ffffff;
+    color: #000;
+}
+
+.welcome {
+    padding: 20px;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.courses {
+    padding: 30px;
+
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.welcome h1, .courses h2 {
+    color: #005A9C;
+}
