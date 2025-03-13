@@ -30,7 +30,7 @@ main {
     padding: 20px;
     background-color: darkblue;
     text-align: center;
-    color: white;
+    color: rgb(255, 254, 254);
 }
 
 body{
@@ -49,6 +49,29 @@ p {
     line-height: 1.4;
 }
 
-.welcome h1, .courses h2 {
+.welcome h1, .courses h2 { 
     color: #005A9C;
+}
+
+.infoCurso img{
+    width: 225px;
+    float: left; 
+    margin-right: 30px; 
+}
+
+.infoCurso{
+    overflow: auto;
+    margin-bottom: 30px;
+
+}
+
+footer{
+    text-align: center; 
+    padding: 20px;
+    background-color:lightgray;
+}
+
+.image{
+    width: 600px;
+    border: 2px solid black;
 }
